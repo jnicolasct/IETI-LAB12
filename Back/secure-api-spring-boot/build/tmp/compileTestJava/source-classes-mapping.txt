@@ -1,0 +1,2 @@
+com/eci/cosw/springbootsecureapi/SpringBootSecureApiApplicationTests.java
+ com.eci.cosw.springbootsecureapi.SpringBootSecureApiApplicationTests
